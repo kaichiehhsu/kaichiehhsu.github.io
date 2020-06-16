@@ -7,7 +7,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         {% unless logo_path == empty %}
-          <a class="site-logo" href="{{ base_path }}/"><img src="{{ base_path }}{{ logo_path }}" alt=""></a>
+          <a class="site-logo" href="{{ base_path }}/"><img src="{{ base_path }}{{ logo_path }}" alt="" width="50"></a>
         {% endunless %}
         <a class="site-title" href="{{ base_path }}/">
           {{ site.masthead_title | default: site.title }}
