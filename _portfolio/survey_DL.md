@@ -1,6 +1,5 @@
 ---
 title:      "Survey of Dictionary Learning"
-collection: portfolio
 permalink: /portfolio/DL
 excerpt:    '<img src="/images/Survey_DL/DL.jpg"  alt="drawing" width="400"/>'
 date:       2018-07-06

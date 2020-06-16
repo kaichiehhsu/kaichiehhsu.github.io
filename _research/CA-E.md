@@ -1,6 +1,5 @@
 ---
 title: 		"Low-Complexity Compressed Analysis in Eigenspace with Limited Labeled Data for Real-Time Electrocardiography Telemonitoring"
-collection:	research
 permalink: 	/research/CA-E
 excerpt: 	'<img src="/images/CA-E/flow_chart.jpg"  alt="drawing" width="600"/>'
 date: 		2018-06-30
