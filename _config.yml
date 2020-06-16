@@ -128,6 +128,7 @@ include:
   - _posts
   - _research
   - _portfolio
+  - tags
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
