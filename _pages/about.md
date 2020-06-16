@@ -1,13 +1,10 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-Kai-Chieh Hsu received the B.S. degree in electrical engineering from National Taiwan University (NTU), Taipei, Taiwan, in 2019.
+Kai-Chieh Hsu received the B.S. degree in electrical engineering from National Taiwan University (NTU), Taiwan, in 2019.
 He is currently working toward the Ph.D. degree in the electrical engineering, Princeton University.
 His research focuses on machine learning, reinforcement learning and signal processing.
 In particular, he applies different algorithms on control problems and compressed biomedical signals.
