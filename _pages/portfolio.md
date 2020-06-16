@@ -1,7 +1,14 @@
 ---
-title: Side Projects
-layout: collection
+layout: archive
+title: "Side Projects"
 permalink: /portfolio/
-collection: portfolio
-classes: wide
+author_profile: true
 ---
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
