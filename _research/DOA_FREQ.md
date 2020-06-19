@@ -11,13 +11,13 @@ tags:
 ---
 
 <center>
-	'<img src="/images/DOA_JE/mainarray.jpg"  alt="drawing" width="600"/>'
+	'<img src="/images/DOA_JE/mainarray.jpg"  alt="drawing" width="500"/>'
 </center>
 
 <center>
 	<a href="/files/PIERS_DOA_JE.pdf" target="_blank" class="btn btn-danger">
 		<span style="font-size: 120%;">
-		GlobalSIP Slides
+		PIERS Slides
 		</span>
 	</a>
 </center>
