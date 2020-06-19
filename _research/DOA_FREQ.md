@@ -2,8 +2,8 @@
 title:  	"Joint Estimation of DOA and Carrier Frequency"
 collection:	research
 permalink: 	/research/DOA_JE
-date:  		 2018-03-28
-excerpt: 	'<img src="/images/DOA_JE/mainarray.jpg"  alt="drawing" width="600"/>'
+date:  		 2019-01-15
+excerpt: 	'<img src="/images/DOA_JE/mainarray.jpg"  alt="drawing" width="400"/>'
 venue: 		'Sensors'
 paperurl: 	'https://www.mdpi.com/1424-8220/19/2/335'
 tags:
