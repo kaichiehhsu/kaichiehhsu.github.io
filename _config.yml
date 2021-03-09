@@ -197,7 +197,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  completed:
+  research:
     output: true
     permalink: /:collection/:path/
   ongoing:
@@ -262,10 +262,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _completed
+  # _research
   - scope:
       path: ""
-      type: completed
+      type: research
     values:
       layout: single
       author_profile: true
