@@ -22,8 +22,3 @@ He was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="c
 		</span>
 	</a>
 </center>
-
-
-## News
----
-
