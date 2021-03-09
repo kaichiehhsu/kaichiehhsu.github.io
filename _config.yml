@@ -271,6 +271,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _ongoing
+  - scope:
+      path: ""
+      type: ongoing
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
