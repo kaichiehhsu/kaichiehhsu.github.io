@@ -39,9 +39,9 @@
     {% endif %}
     
     {% if post.venue and post.date %}
-      <p style="font-size:1em">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <p style="font-size:.8em">Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.date %}
-      <p style="font-size:1em" class="page__date"><strong>{{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+      <p style="font-size:.8em" class="page__date">{{ site.data.ui-text[site.locale].date_label | default: "Published:" }} <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}
 
 <!-- <i class="fa fa-fw fa-calendar" aria-hidden="true"></i> -->
@@ -51,11 +51,11 @@
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-      <p style="font-size:1em">Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+      <p style="font-size:.8em">Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
-      <p style="font-size:1em">Recommended citation: {{ post.citation }} </p>
+      <p style="font-size:.8em">Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p style="font-size:1em">Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+      <p style="font-size:.8em">Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
   </article>
