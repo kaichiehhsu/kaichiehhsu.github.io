@@ -4,10 +4,10 @@ title: "About Me"
 author_profile: true
 ---
 
-Kai-Chieh Hsu is currently working toward a Ph.D. degree in electrical engineering, Princeton University with Prof. Jaime Fernández Fisac.
+Kai-Chieh Hsu is currently working toward a Ph.D. degree in electrical engineering, Princeton University with <p>Prof. Jaime Fernández Fisac </p>.
 His research interests lie in machine learning, human-robot interaction, and multi-agent planning.
 In particular, he applies different algorithms on safety-critical robotic systems with a focus on
-1. how to guarantee our system can reach certain goal conditions while staying clear of unacceptable failure modes despite adversarial noise or agent, which is also known as reach-avoid control problems
+1. how to guarantee our system can reach certain goal conditions while staying clear of unacceptable failure modes despite adversarial noise or agent, which is also known as reach-avoid control probleKms
 2. how to infer reward functions as well as constraints of desired behaviors and
 3. how to compete or coordinate with other agents in the system.
 
