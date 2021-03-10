@@ -2,14 +2,14 @@
 title:      "Survey of Dictionary Learning"
 collection: portfolio
 permalink: /portfolio/DL
-excerpt:    '<img src="/images/Survey_DL/DL.jpg"  alt="drawing" width="400"/>'
+excerpt:    '<img src="/images/Survey_DL/DL.jpg"  alt="drawing" height="300"/>'
 date:       2018-07-06
 tags:
   - dictionary learning
 ---
 
 <center>
-<img src="/images/Survey_DL/DL.jpg"  alt="drawing" width="400"/>
+<img src="/images/Survey_DL/DL.jpg"  alt="drawing" height="300"/>
 </center>
 
 <center>
