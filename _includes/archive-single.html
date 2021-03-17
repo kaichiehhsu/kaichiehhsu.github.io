@@ -12,13 +12,13 @@
   {% assign title = post.title %}
 {% endif %}
 
-<style type="text/css">
+<!-- <style type="text/css">
   span.bold-orange {
       color: #ff8000;
       font-weight: bolder;
       font-size: 1.3em;
   }
-</style>
+</style> -->
 
 
 <div class="{{ include.type | default: "list" }}__item">
@@ -35,15 +35,13 @@
       </div>
     {% endif %}
 
-    <!-- <h3 class="archive__item-title" itemprop="headline" style="color: #ff8000">-->
-    <span class="bold-orange" itemprop="headline" >
+    <h3 class="archive__item-title" itemprop="headline" style="color:#ff8000;font-size:1.3em">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </span>
-    <!-- </h3>-->
+    </h3>
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
