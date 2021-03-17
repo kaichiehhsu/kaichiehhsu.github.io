@@ -144,10 +144,10 @@
 
 .warning {
   background: #ff8000;
-  color: #000000;
+  color: #000000 !important;
 }
 
 .warning:hover {
   background: #ffb266;
-  color: black;
+  color: black !important;
 }
