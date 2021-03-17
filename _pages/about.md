@@ -18,7 +18,7 @@ I was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="co
 	<span style="font-size: 120%;">
 		Click here to view my CV: &nbsp;&nbsp;&nbsp;
 	</span> 
-	<a href="/files/CV.pdf" target="_blank" class="btn btn-warning">
+	<a href="/files/CV.pdf" target="_blank" class="btn warning">
 		<span style="font-size: 120%;">
 			Curriculum Vitae
 		</span>

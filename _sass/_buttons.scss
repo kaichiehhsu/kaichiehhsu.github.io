@@ -75,17 +75,6 @@
     }
   }
 
-  /* warning */
-
-  &--warning {
-    background-color: #FF8000;
-    color: #000000;
-
-    &:hover {
-      background-color: #FFB266;
-    }
-  }
-
   /* success */
 
   &--success {
@@ -151,4 +140,14 @@
   &--small {
     font-size: $type-size-7;
   }
+}
+
+.warning {
+  background: #ff8000;
+  color: #000000;
+}
+
+.warning:hover {
+  background: #ffb266;
+  color: black;
 }
