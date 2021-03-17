@@ -26,3 +26,4 @@ I was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="co
 </center>
 
 ## News
+* July 2020: Our paper <a href="https://ieeexplore.ieee.org/document/9131803?fbclid=IwAR3f-I6_L-uqGiHDsFOakNSB4ftMwMWpVJp1IQAyWYX_mSCGwSEK1Co2jB8" style="color: rgb(0,51,204)">''Low-Complexity On-demand Reconstruction forCompressively Sensed Problematic Signals''</a> was published in IEEE Trans. on Signal Processing.
