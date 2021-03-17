@@ -245,7 +245,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      comments: true
+      comment: true
       share: true
   # _pages
   - scope:
