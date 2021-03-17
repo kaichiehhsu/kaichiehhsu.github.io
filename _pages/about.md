@@ -12,18 +12,18 @@ In particular, I apply different algorithms on safety-critical robotic systems w
 3. how to infer and distinguish soft and hard constraints in human preferences by asking for ranking feedback on multiple candidate solutions.
 
 Prior to joining Princeton University, I was an undergraduate researcher in electrical engineering, National Taiwan University.
-I was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="color: rgb(0,51,204)">Prof. An-Yeu (Andy) Wu</a>) focusing on intelligent reconstruction for compressed sensing ECG signals and a member of *Group of Electromagnetic Applications* (<a href="http://cc.ee.ntu.edu.tw/~jfkiang/" style="color: rgb(0,51,204)">Prof. Jean-Fu Kiang</a>) focusing on direction-of-arrival estimation of signals.
+I was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="color: rgb(255, 128, 0)">Prof. An-Yeu (Andy) Wu</a>) focusing on intelligent reconstruction for compressed sensing ECG signals and a member of *Group of Electromagnetic Applications* (<a href="http://cc.ee.ntu.edu.tw/~jfkiang/" style="color: rgb(255, 128, 0)">Prof. Jean-Fu Kiang</a>) focusing on direction-of-arrival estimation of signals.
 
 <center>
-	<span style="font-size: 110%;">
+	<span style="font-size: 120%;">
 		Click here to view my CV: &nbsp;&nbsp;&nbsp;
 	</span> 
-	<a href="/files/CV.pdf" target="_blank" class="btn btn-info">
-		<span style="font-size: 130%;">
+	<a href="/files/CV.pdf" target="_blank" class="btn btn-warning">
+		<span style="font-size: 120%;">
 			Curriculum Vitae
 		</span>
 	</a>
 </center>
 
 ## News
-* July 2020: Our paper <a href="https://ieeexplore.ieee.org/document/9131803?fbclid=IwAR3f-I6_L-uqGiHDsFOakNSB4ftMwMWpVJp1IQAyWYX_mSCGwSEK1Co2jB8" style="color: rgb(0,51,204)">"Low-Complexity On-demand Reconstruction for Compressively Sensed Problematic Signals"</a> was published in IEEE Trans. on Signal Processing.
+* July 2020: Our paper <a href="https://ieeexplore.ieee.org/document/9131803?fbclid=IwAR3f-I6_L-uqGiHDsFOakNSB4ftMwMWpVJp1IQAyWYX_mSCGwSEK1Co2jB8" style="color: rgb(255, 128, 0)">"Low-Complexity On-demand Reconstruction for Compressively Sensed Problematic Signals"</a> was published in IEEE Trans. on Signal Processing.
