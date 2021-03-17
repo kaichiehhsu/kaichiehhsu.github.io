@@ -15,7 +15,7 @@ Prior to joining Princeton University, he was an undergraduate researcher in ele
 He was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="color: rgb(0,51,204)">Prof. An-Yeu (Andy) Wu</a>) focusing on intelligent reconstruction for compressed sensing ECG signals and a member of *Group of Electromagnetic Applications* (<a href="http://cc.ee.ntu.edu.tw/~jfkiang/" style="color: rgb(0,51,204)">Prof. Jean-Fu Kiang</a>) focusing on direction-of-arrival estimation of signals.
 
 <center>
-	<span style="font-size: 130%;">
+	<span style="font-size: 110%;">
 		Click here to view my CV: &nbsp;&nbsp;&nbsp;
 	</span> 
 	<a href="/files/CV.pdf" target="_blank" class="btn btn-info">
@@ -24,3 +24,5 @@ He was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="c
 		</span>
 	</a>
 </center>
+
+## News
