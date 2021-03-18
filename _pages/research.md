@@ -9,14 +9,14 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 {% include base_path %}
 
-<h2 class="archive__item-title" style="color:#ff8000">
+<h2 style="color:#ff8000">
   Ongoing Projects
 </h2>
 {% for post in site.ongoing %}
   {% include archive-single.html %}
 {% endfor %}
 
-<h2 class="archive__item-title" style="color:#ff8000">
+<h2 style="color:#ff8000">
   Selected Completed Projects
 </h2>
 {% for post in site.research reversed %}
