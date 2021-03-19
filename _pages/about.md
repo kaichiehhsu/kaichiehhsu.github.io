@@ -4,7 +4,7 @@ title: "About Me"
 author_profile: true
 ---
 
-I am currently working toward a Ph.D. degree in electrical and computer engineering, Princeton University with <span>Prof. Jaime Fernández Fisac</span>.
+I am currently working toward a Ph.D. degree in electrical and computer engineering, Princeton University with <a href="https://ece.princeton.edu/people/jaime-fernandez-fisac" style="color: rgb(255, 128, 0)"><span>Prof. Jaime Fernández Fisac</span></a>.
 My research interests lie in machine learning, human-robot interaction, and multi-agent planning.
 In particular, I apply different algorithms on safety-critical robotic systems with a focus on
 1. how to guarantee systems can reach certain goal conditions while staying clear of unacceptable failure modes, which is known as reach-avoid control problems,
