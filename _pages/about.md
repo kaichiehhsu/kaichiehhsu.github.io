@@ -29,4 +29,5 @@ I was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="co
 <h2 style="color:#ff8000">
   Recent News
 </h2>
+* April 2021: I passed my general exam (<a href="https://kaichiehhsu.github.io/posts/general" style="color: rgb(255, 128, 0)">Abstract</a>).
 * July 2020: Our paper <a href="https://ieeexplore.ieee.org/document/9131803?fbclid=IwAR3f-I6_L-uqGiHDsFOakNSB4ftMwMWpVJp1IQAyWYX_mSCGwSEK1Co2jB8" style="color: rgb(255, 128, 0)">"Low-Complexity On-demand Reconstruction for Compressively Sensed Problematic Signals"</a> was published in IEEE Trans. on Signal Processing.
