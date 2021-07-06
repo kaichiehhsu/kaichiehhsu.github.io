@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-{% assign everything = site.portfolio | concat: site.research %}
+{% assign everything = site.portfolio | concat: site.research | concat: site.ongoing %}
 {% include group-by-array collection=everything field="tags" %}
 
 {% for tag in group_names %}
