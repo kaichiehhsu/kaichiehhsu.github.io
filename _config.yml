@@ -84,8 +84,8 @@ analytics:
 author:
   name             : "Kai-Chieh Hsu"
   avatar           : "me-1.jpg"
-  bio              : "" #"Your biography for the left-hand sidebar"
-  location         : "Princeton, NJ"
+  bio              : "I combine safety analysis and machine learning techniques to enable autonomous systems in safety-critical settings and human-robot interaction." #"Your biography for the left-hand sidebar"
+  location         : "F-316 Engineering Quadrangle, 41 Olden Street, Princeton, NJ"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=fpjWEIUAAAAJ"
