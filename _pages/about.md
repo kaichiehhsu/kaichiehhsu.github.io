@@ -11,7 +11,7 @@ I am so fortunate to work with <a href="https://ece.princeton.edu/people/jaime-f
 In particular, I apply different algorithms on safety-critical robotic systems with a focus on
 1. how to guarantee systems can reach certain goal conditions while staying clear of unacceptable failure modes, which is known as reach-avoid control problems,
 2. how to provide safety and convergence guarantees for learning-based multi-agent reinforcement learning in zero-sum games, and  -->
-I combine safety analysis and machine learning techniques to enable autonomous systems in safety-critical settings and human-robot interaction.
+<!-- I combine safety analysis and machine learning techniques to enable autonomous systems in safety-critical settings and human-robot interaction. -->
 Recently, I have been focusing on
 1. how to safely close the sim2real gap through Hamilton-Jacobi reachability-based reinforcement learning and PAC-Bayes control, 
 2. how to provide safety and convergence guarantees for learning-based multi-agent reinforcement learning in zero-sum games, and
