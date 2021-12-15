@@ -33,6 +33,7 @@ I was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="co
 <h2 style="color:#ff8000">
   Recent News
 </h2>
+* Dec 2021: I gave a talk in Princeton's Robotics Project Meeting on improving robot navigation performance and safety using reachability-analysis-based shielding and generalization guarantees (jointly with Allen Z. Ren).
 * Oct 2021: The code for reach-avoid reinforcment learning is released <a href="https://github.com/SafeRoboticsLab/safety_rl" style="color: rgb(255, 128, 0)">here</a>.
 * May 2021: Our paper <a href="https://roboticsconference.org/program/papers/077/" style="color: rgb(255, 128, 0)">"Safety and Liveness Guarantees through Reach-Avoid Reinforcement Learning"</a> was accepted in *RSS'21*.
 * April 2021: I passed my general exam (<a href="https://kaichiehhsu.github.io/posts/general" style="color: rgb(255, 128, 0)">Abstract</a>).
