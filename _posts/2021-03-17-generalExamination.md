@@ -5,6 +5,14 @@ permalink: 	/posts/general
 date: 		2021-03-17
 ---
 
+<center>
+	<a href="/files/generalExam.pdf" target="_blank" class="btn btn-danger">
+		<span style="font-size: 120%;">
+		    Slides
+		</span>
+	</a>
+</center>
+
 Recent developments in deep reinforcement learning have shown promising results to improve the capabilities of autonomous systems. However, for safety-critical robotic systems, it is crucial to provide safety and liveness certificates around these data-driven methods. I focus on three fundamental challenges:
 1. how to guarantee systems can reach certain goal conditions while staying clear of unacceptable failure modes, which is known as reach-avoid control problems,
 2. how to provide safety and convergence guarantees for learning-based multi-agent reinforcement learning in zero-sum games, and
