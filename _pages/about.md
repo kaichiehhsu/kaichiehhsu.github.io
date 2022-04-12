@@ -33,6 +33,7 @@ I was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="co
 <h2 style="color:#ff8000">
   Recent News
 </h2>
+* Apr 2022: Our paper <a href="https://arxiv.org/abs/2201.08355" style="color: rgb(255, 128, 0)">"Sim-to-Lab-to-Real: Safe Reinforcement Learning with Shielding and Generalization Guarantees"</a> is selected for oral presentation in <a href="https://ai-workshops.github.io/generalizable-policy-learning-in-the-physical-world/" style="color: rgb(255, 128, 0)">ICLR workshop on Generalizable Policy Learning in the Physical World</a>.
 * Jan 2022: Our new preprint paper <a href="https://arxiv.org/abs/2201.08355" style="color: rgb(255, 128, 0)">"Sim-to-Lab-to-Real: Safe Reinforcement Learning with Shielding and Generalization Guarantees"</a> is on arXiv (<a href="https://sites.google.com/princeton.edu/sim-to-lab-to-real" style="color: rgb(255, 128, 0)">Project Website</a>).
 * Dec 2021: I gave a talk in Princeton's Robotics Project Meeting on improving robot navigation performance and safety using reachability-analysis-based shielding and generalization guarantees (jointly with Allen Z. Ren).
 * Oct 2021: The code for reach-avoid reinforcment learning is released <a href="https://github.com/SafeRoboticsLab/safety_rl" style="color: rgb(255, 128, 0)">here</a>.
