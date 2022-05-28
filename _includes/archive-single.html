@@ -57,13 +57,13 @@
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% endif %}
     
-    {% if post.citation and post.paperurl %}
+    <!-- {% if post.citation and post.paperurl %}
       <p style="font-size:.8em">Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p style="font-size:.8em">Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p style="font-size:.8em">Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
-    {% endif %}
+    {% endif %} -->
 
   </article>
 </div>
