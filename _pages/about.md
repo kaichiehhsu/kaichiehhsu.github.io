@@ -7,13 +7,10 @@ author_profile: true
 I am currently working toward a Ph.D. degree in electrical and computer engineering, Princeton University.
 I am so fortunate to work with <a href="https://ece.princeton.edu/people/jaime-fernandez-fisac" style="color: rgb(255, 128, 0)"><span>Prof. Jaime Fernández Fisac</span></a>.
 
-<!-- My research interests lie in machine learning, human-robot interaction, and multi-agent planning.
-In particular, I apply different algorithms on safety-critical robotic systems with a focus on
-1. how to guarantee systems can reach certain goal conditions while staying clear of unacceptable failure modes, which is known as reach-avoid control problems,
-2. how to provide safety and convergence guarantees for learning-based multi-agent reinforcement learning in zero-sum games, and  -->
+<!-- how to provide safety and convergence guarantees for learning-based multi-agent reinforcement learning in zero-sum games, and -->
 Recently, I have been focusing on
-1. how to safely close the sim2real gap through Hamilton-Jacobi reachability-based reinforcement learning and PAC-Bayes control, 
-2. how to provide safety and convergence guarantees for learning-based multi-agent reinforcement learning in zero-sum games, and
+1. how to provide safety guarantees to learning-based policy, which includes safe exploration and briding sim2real gap.
+2. how to incorporate human intents into trajectory prediction and planning.
 3. how to infer and distinguish soft and hard constraints in human preferences by asking for ranking feedback on multiple candidate solutions.
 
 Prior to joining Princeton University, I was an undergraduate researcher in electrical engineering, National Taiwan University.
