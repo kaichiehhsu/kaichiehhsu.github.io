@@ -9,7 +9,7 @@ I am so fortunate to work with <a href="https://ece.princeton.edu/people/jaime-f
 
 <!-- how to provide safety and convergence guarantees for learning-based multi-agent reinforcement learning in zero-sum games, and -->
 Recently, I have been focusing on
-1. how to provide safety guarantees to learning-based policy, which includes safe exploration and briding sim2real gap.
+1. how to provide safety guarantees to learning-based policy, which includes safe exploration and bridging the sim2real gap.
 2. how to incorporate human intents into trajectory prediction and planning.
 3. how to infer and distinguish soft and hard constraints in human preferences by asking for ranking feedback on multiple candidate solutions.
 
