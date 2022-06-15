@@ -201,7 +201,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  ongoing:
+  past_projects:
     output: true
     permalink: /:collection/:path/
   posts:
@@ -273,10 +273,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _ongoing
+  # _past_projects
   - scope:
       path: ""
-      type: ongoing
+      type: past_projects
     values:
       layout: single
       author_profile: true
