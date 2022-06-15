@@ -3,11 +3,11 @@ main:
   - title: "Research"
     url: /research/
 
-  #- title: "Talks"
-  #  url: /talks/    
-    
-  - title: "Side Projects"
-    url: /portfolio/
+  - title: "Past Projects"
+    url: /past_projects/
+
+  # - title: "Side Projects"
+  #   url: /portfolio/
 
   - title: "Posts"
     url: /posts/
