@@ -1,7 +1,8 @@
 ---
-title: 		"General Examination Abstract"
+title: "General Examination Abstract"
 collection:	posts
-permalink: 	/posts/general
+permalink: /posts/general
+excerpt: "Recent developments in deep reinforcement learning have shown promising results to improve the capabilities of autonomous systems. However, for safety-critical robotic systems, it is crucial to provide safety and liveness certificates around these data-driven methods."
 date: 		2021-03-17
 ---
 
