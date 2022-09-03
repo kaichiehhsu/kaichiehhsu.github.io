@@ -10,8 +10,9 @@ I am so fortunate to work with <a href="https://ece.princeton.edu/people/jaime-f
 <!-- how to provide safety and convergence guarantees for learning-based multi-agent reinforcement learning in zero-sum games, and -->
 Recently, I have been focusing on
 1. how to provide safety guarantees to learning-based policy, which includes safe exploration and bridging the sim2real gap.
-2. how to incorporate human intents into trajectory prediction and planning.
-3. how to infer and distinguish soft and hard constraints in human preferences by asking for ranking feedback on multiple candidate solutions.
+2. how to infer human intents and strategies and incorporate into trajectory prediction and planning.
+3. how to use game-theoretic counterfactual reasoning for safe and efficient multiagent planning.
+<!-- 3. how to infer and distinguish soft and hard constraints in human preferences by asking for ranking feedback on multiple candidate solutions. -->
 
 Prior to joining Princeton University, I was an undergraduate researcher in electrical engineering, National Taiwan University.
 I was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="color: rgb(255, 128, 0)">Prof. An-Yeu (Andy) Wu</a>) focusing on intelligent reconstruction for compressed sensing ECG signals and a member of *Group of Electromagnetic Applications* (<a href="http://cc.ee.ntu.edu.tw/~jfkiang/" style="color: rgb(255, 128, 0)">Prof. Jean-Fu Kiang</a>) focusing on direction-of-arrival estimation of signals.
@@ -30,11 +31,12 @@ I was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="co
 <h2 style="color:#ff8000">
   Recent News
 </h2>
+* September 2022: I received Princeton ECE department teaching assistant award for developing the new *Intelligent Robotic Systems* course. Thank you Jaime, Zixu and Duy!
 * May 2022: I joined <a href="https://nvr-avg.github.io/" style="color: rgb(255, 128, 0)">NVIDIA Research Autonomous Vehicle Group</a> as a research intern. I am fortunate to work with <a href="http://faculty.washington.edu/kymleung/" style="color: rgb(255, 128, 0)">Karen Leung</a>, <a href="https://nvr-avg.github.io/author/yuxiao-chen/" style="color: rgb(255, 128, 0)">Yuxiao Chen</a>, and <a href="https://web.stanford.edu/~pavone/" style="color: rgb(255, 128, 0)">Marco Pavone</a> on formalizing responsibility and infusing it into the prediction and planning modules of the autonomous vehicle software stack.
-* Apr 2022: Our paper <a href="https://arxiv.org/abs/2201.08355" style="color: rgb(255, 128, 0)">"Sim-to-Lab-to-Real: Safe Reinforcement Learning with Shielding and Generalization Guarantees"</a> is selected for oral presentation in <a href="https://ai-workshops.github.io/generalizable-policy-learning-in-the-physical-world/" style="color: rgb(255, 128, 0)">ICLR workshop on Generalizable Policy Learning in the Physical World</a> (<a href="https://sites.google.com/princeton.edu/sim-to-lab-to-real" style="color: rgb(255, 128, 0)">Project Website</a>).
+* April 2022: Our paper <a href="https://arxiv.org/abs/2201.08355" style="color: rgb(255, 128, 0)">"Sim-to-Lab-to-Real: Safe Reinforcement Learning with Shielding and Generalization Guarantees"</a> is selected for oral presentation in <a href="https://ai-workshops.github.io/generalizable-policy-learning-in-the-physical-world/" style="color: rgb(255, 128, 0)">ICLR workshop on Generalizable Policy Learning in the Physical World</a> (<a href="https://sites.google.com/princeton.edu/sim-to-lab-to-real" style="color: rgb(255, 128, 0)">Project Website</a>).
 <!-- * Jan 2022: Our new preprint paper <a href="https://arxiv.org/abs/2201.08355" style="color: rgb(255, 128, 0)">"Sim-to-Lab-to-Real: Safe Reinforcement Learning with Shielding and Generalization Guarantees"</a> is on arXiv (<a href="https://sites.google.com/princeton.edu/sim-to-lab-to-real" style="color: rgb(255, 128, 0)">Project Website</a>). -->
-* Dec 2021: I gave a talk in Princeton's Robotics Project Meeting on improving robot navigation performance and safety using reachability-analysis-based shielding and generalization guarantees (jointly with Allen Z. Ren).
-* Oct 2021: The code for reach-avoid reinforcment learning is released <a href="https://github.com/SafeRoboticsLab/safety_rl" style="color: rgb(255, 128, 0)">here</a>.
+* December 2021: I gave a talk in Princeton's Robotics Project Meeting on improving robot navigation performance and safety using reachability-analysis-based shielding and generalization guarantees (jointly with Allen Z. Ren).
+* October 2021: The code for reach-avoid reinforcment learning is released <a href="https://github.com/SafeRoboticsLab/safety_rl" style="color: rgb(255, 128, 0)">here</a>.
 * May 2021: Our paper <a href="https://arxiv.org/abs/2112.12288" style="color: rgb(255, 128, 0)">"Safety and Liveness Guarantees through Reach-Avoid Reinforcement Learning"</a> was accepted in *RSS'21*.
 * April 2021: I passed my general exam (<a href="https://kaichiehhsu.github.io/posts/general" style="color: rgb(255, 128, 0)">Abstract</a>).
 * July 2020: Our paper <a href="https://ieeexplore.ieee.org/document/9131803?fbclid=IwAR3f-I6_L-uqGiHDsFOakNSB4ftMwMWpVJp1IQAyWYX_mSCGwSEK1Co2jB8" style="color: rgb(255, 128, 0)">"Low-Complexity On-demand Reconstruction for Compressively Sensed Problematic Signals"</a> was published in *IEEE Trans. on Signal Processing*.
