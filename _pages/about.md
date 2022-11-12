@@ -31,7 +31,7 @@ I was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="co
 <h2 style="color:#ff8000">
   Recent News
 </h2>
-* October 2022: Our paper <span style="color:rgb(255, 128, 0)">"Reinforcement Learning Guided Detailed Routing for FinFET Custom Circuits"</span> was submitted to *International Symposium on Physical Design (ISPD)*.
+* November 2022: Our paper <span style="color:rgb(255, 128, 0)">"Reinforcement Learning Guided Detailed Routing for FinFET Custom Circuits"</span> was accepted to *International Symposium on Physical Design (ISPD)*.
 * September 2022: I received Princeton ECE department teaching assistant award for developing the new *Intelligent Robotic Systems* course. Thank you Jaime, Zixu and Duy!
 * May 2022: I joined <a href="https://nvr-avg.github.io/" style="color: rgb(255, 128, 0)">NVIDIA Research Autonomous Vehicle Group</a> as a research intern. I am fortunate to work with <a href="http://faculty.washington.edu/kymleung/" style="color: rgb(255, 128, 0)">Karen Leung</a>, <a href="https://nvr-avg.github.io/author/yuxiao-chen/" style="color: rgb(255, 128, 0)">Yuxiao Chen</a>, and <a href="https://web.stanford.edu/~pavone/" style="color: rgb(255, 128, 0)">Marco Pavone</a> on formalizing responsibility and infusing it into the prediction and planning modules of the autonomous vehicle software stack.
 * April 2022: Our paper <a href="https://arxiv.org/abs/2201.08355" style="color: rgb(255, 128, 0)">"Sim-to-Lab-to-Real: Safe Reinforcement Learning with Shielding and Generalization Guarantees"</a> was selected for oral presentation in ICLR workshop on Generalizable Policy Learning in the Physical World (<a href="https://sites.google.com/princeton.edu/sim-to-lab-to-real" style="color: rgb(255, 128, 0)">Project Website</a>).
