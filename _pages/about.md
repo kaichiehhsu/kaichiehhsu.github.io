@@ -5,11 +5,11 @@ author_profile: true
 ---
 
 I am currently working toward a Ph.D. degree in electrical and computer engineering, Princeton University.
-I am so fortunate to work with <a href="https://ece.princeton.edu/people/jaime-fernandez-fisac" style="color: rgb(255, 128, 0)"><span>Prof. Jaime Fernández Fisac</span></a>.
+I am so fortunate to work with <a href="https://ece.princeton.edu/people/jaime-fernandez-fisac" style="color: rgb(255, 128, 0)"><span>Prof. Jaime Fernández Fisac</span></a> at <a href="https://saferobotics.princeton.edu/" style="color: rgb(255, 128, 0)"><span>Safe Robotics Lab</span></a>.
 
 <!-- how to provide safety and convergence guarantees for learning-based multi-agent reinforcement learning in zero-sum games, and -->
 Recently, I have been focusing on
-1. how to provide safety guarantees to learning-based policy, which includes safe exploration and bridging the sim2real gap.
+1. how to provide safety guarantees to learning-based policies, which includes safe exploration and bridging the sim2real gap.
 2. how to infer human intents and strategies and incorporate into trajectory prediction and planning.
 3. how to use game-theoretic counterfactual reasoning for safe and efficient multiagent planning.
 <!-- 3. how to infer and distinguish soft and hard constraints in human preferences by asking for ranking feedback on multiple candidate solutions. -->
