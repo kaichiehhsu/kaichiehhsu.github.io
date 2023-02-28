@@ -32,6 +32,7 @@ I was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="co
   Recent News
 </h2>
 
+* Februrary 2023: Our paper "Interpretable Trajectory Prediction for Autonomous Vehicles via Counterfactual Responsibility" was submitted to *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)* for review.
 * November 2022: Our paper <a href="https://arxiv.org/abs/2212.03228" style="color: rgb(255, 128, 0)">"ISAACS: Iterative Soft Adversarial Actor-Critic for Safety"</a> was submitted to *Learning for Dynamics and Control (L4DC)* for review.
 * November 2022: Our paper <a href="https://www.sciencedirect.com/science/article/abs/pii/S0004370222001515" style="color: rgb(255, 128, 0)">"Sim-to-Lab-to-Real: Safe Reinforcement Learning with Shielding and Generalization Guarantees"</a> was accepted to *Special Issue on Risk-aware Autonomous Systems: Theory and Practice, Artificial Intelligence* (<a href="https://sites.google.com/princeton.edu/sim-to-lab-to-real" style="color: rgb(255, 128, 0)">Project Website</a>).
 * November 2022: Our paper <span style="color:rgb(255, 128, 0)">"Reinforcement Learning Guided Detailed Routing for FinFET Custom Circuits"</span> was accepted to *International Symposium on Physical Design (ISPD)*.
