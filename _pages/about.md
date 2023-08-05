@@ -32,8 +32,8 @@ I was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="co
   Recent News
 </h2>
 
-* June 2023: Our paper "Fast, Smooth, and Safe: Implicit Control Barrier Functions through Reach-Avoid Differential Dynamic Programming" was accepted to *IEEE Control Systems Letters*.
-* March 2023: Our paper "Emergent Coordination through Game-Induced Nonlinear Opinion Dynamics" was submitted to *IEEE Conference on Decision and Control (CDC)* for review.
+* July 2023: Our paper <a href="https://arxiv.org/abs/2304.02687" style="color: rgb(255, 128, 0)">"Emergent Coordination through Game-Induced Nonlinear Opinion Dynamics"</a> was accepted to *IEEE Conference on Decision and Control (CDC)*.
+* June 2023: Our paper <a href="https://ieeexplore.ieee.org/abstract/document/10172325" style="color: rgb(255, 128, 0)">"Fast, Smooth, and Safe: Implicit Control Barrier Functions through Reach-Avoid Differential Dynamic Programming"</a> was accepted to *IEEE Control Systems Letters*.
 * March 2023: Our paper <a href="https://saferobotics.princeton.edu/research/isaacs" style="color: rgb(255, 128, 0)">"ISAACS: Iterative Soft Adversarial Actor-Critic for Safety"</a> was accepted to *Learning for Dynamics and Control (L4DC)*.
 * March 2023: Our paper <a href="https://dl.acm.org/doi/10.1145/3576914.3589205" style="color: rgb(255, 128, 0)">"AIMED: AI-Mediated Exploration of Design: An Experience Report"</a>  was accepted to *5th Workshop on Design Automation for CPS and IoT (DESTION)*.
 * Februrary 2023: Our paper "Interpretable Trajectory Prediction for Autonomous Vehicles via Counterfactual Responsibility" was submitted to *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)* for review.
