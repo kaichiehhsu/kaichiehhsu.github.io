@@ -12,8 +12,9 @@ tags:
 ---
 
 <center>
-	<img src="/images/responsibility/cover.png"  alt="drawing" width="300px"/>
+	<img src="/images/responsibility/cover.png"  alt="drawing" width="800"/>
 </center>
+
 
 <center>
 	<a href="https://saferobotics.princeton.edu/research/responsibility" class="btn btn-success">
@@ -22,7 +23,6 @@ tags:
 		</span>
 	</a>
 </center>
-
 
 
 <p class="double_underline">Recommended citation:</p>
