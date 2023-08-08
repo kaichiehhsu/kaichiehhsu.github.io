@@ -14,6 +14,7 @@ tags:
 <center>
 	<img src="/images/responsibility/cover.png"  alt="drawing" width="800"/>
 </center>
+<br>
 
 
 <center>
