@@ -32,6 +32,7 @@ I was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="co
   Recent News
 </h2>
 
+* Sept 2023: Our paper <a href="https://arxiv.org/abs/2309.05837" style="color: rgb(255, 128, 0)">"The Safety Filter: A Unified View of Safety-Critical Control in Autonomous Systems"</a> was accepted to *Annual Review of Control, Robotics, and Autonomous Systems*.
 * July 2023: Our paper <a href="https://arxiv.org/abs/2304.02687" style="color: rgb(255, 128, 0)">"Emergent Coordination through Game-Induced Nonlinear Opinion Dynamics"</a> was accepted to *IEEE Conference on Decision and Control (CDC)*.
 * June 2023: Our paper <a href="https://ieeexplore.ieee.org/abstract/document/10172325" style="color: rgb(255, 128, 0)">"Fast, Smooth, and Safe: Implicit Control Barrier Functions through Reach-Avoid Differential Dynamic Programming"</a> was accepted to *IEEE Control Systems Letters*.
 * March 2023: Our paper <a href="https://saferobotics.princeton.edu/research/isaacs" style="color: rgb(255, 128, 0)">"ISAACS: Iterative Soft Adversarial Actor-Critic for Safety"</a> was accepted to *Learning for Dynamics and Control (L4DC)*.
