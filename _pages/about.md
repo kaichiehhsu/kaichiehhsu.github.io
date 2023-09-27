@@ -9,9 +9,9 @@ I am so fortunate to work with <a href="https://ece.princeton.edu/people/jaime-f
 
 <!-- how to provide safety and convergence guarantees for learning-based multi-agent reinforcement learning in zero-sum games, and -->
 Recently, I have been focusing on
-1. how to provide safety guarantees to learning-based policies, which includes safe exploration and bridging the sim2real gap.
-2. how to infer human intents and strategies and incorporate into trajectory prediction and planning.
-3. how to use game-theoretic counterfactual reasoning for safe and efficient multiagent planning.
+1. how to let learning-based autonomy safely operate in uncertain and unforeseen environments, especially safe exploration and bridging the sim2real gap.
+2. how to develop safe and efficient autonomy stack, especially prediction-planning intergration and interpretable lens into the stack.
+3. how to use game-theoretic reasoning for human intent inference and multiagent planning.
 <!-- 3. how to infer and distinguish soft and hard constraints in human preferences by asking for ranking feedback on multiple candidate solutions. -->
 
 Prior to joining Princeton University, I was an undergraduate researcher in electrical engineering, National Taiwan University.
