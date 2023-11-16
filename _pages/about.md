@@ -7,6 +7,13 @@ author_profile: true
 I am currently working toward a Ph.D. degree in electrical and computer engineering, Princeton University.
 I am so fortunate to work with <a href="https://ece.princeton.edu/people/jaime-fernandez-fisac" style="color: rgb(255, 128, 0)"><span>Prof. Jaime Fernández Fisac</span></a> at <a href="https://saferobotics.princeton.edu/" style="color: rgb(255, 128, 0)"><span>Safe Robotics Lab</span></a>.
 
+<center>
+<span style="font-size:16pt; color:#ff8000">
+I am in the job market! Please feel free to reach out if you think I would be a good fit!
+</span>
+</center>
+&nbsp
+
 <!-- how to provide safety and convergence guarantees for learning-based multi-agent reinforcement learning in zero-sum games, and -->
 Recently, I have been focusing on
 1. how to let learning-based autonomy safely operate in uncertain and unforeseen environments, especially safe exploration and bridging the sim2real gap.
@@ -16,6 +23,7 @@ Recently, I have been focusing on
 
 Prior to joining Princeton University, I was an undergraduate researcher in electrical engineering, National Taiwan University.
 I was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="color: rgb(255, 128, 0)">Prof. An-Yeu (Andy) Wu</a>) focusing on intelligent reconstruction for compressed sensing ECG signals and a member of *Group of Electromagnetic Applications* (<a href="http://cc.ee.ntu.edu.tw/~jfkiang/" style="color: rgb(255, 128, 0)">Prof. Jean-Fu Kiang</a>) focusing on direction-of-arrival estimation of signals.
+
 
 <center>
 	<span style="font-size: 120%;">
@@ -32,7 +40,7 @@ I was a member of *Access LAB* (<a href="http://access.ee.ntu.edu.tw/" style="co
   Recent News
 </h2>
 
-<!-- * October 2023: I presented our paper "Interpretable Trajectory Prediction for Autonomous Vehicles via Counterfactual Responsibility" at *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)* and give a talk "Role of Safety: from safety-critical control to safety-informed motion forecasting" at <a href="https://sites.google.com/view/w-iros23/home" style="color: rgb(255, 128, 0)">Formal methods techniques in robotics systems: Design and control</a>. -->
+* October 2023: I presented our paper "Interpretable Trajectory Prediction for Autonomous Vehicles via Counterfactual Responsibility" at *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)* and give a talk "Role of Safety: from safety-critical control to safety-informed motion forecasting" at <a href="https://sites.google.com/view/w-iros23/home" style="color: rgb(255, 128, 0)">Formal methods techniques in robotics systems: Design and control</a>.
 * September 2023: Our paper <a href="https://arxiv.org/abs/2309.05837" style="color: rgb(255, 128, 0)">"The Safety Filter: A Unified View of Safety-Critical Control in Autonomous Systems"</a> was accepted to *Annual Review of Control, Robotics, and Autonomous Systems*.
 * July 2023: Our paper <a href="https://arxiv.org/abs/2304.02687" style="color: rgb(255, 128, 0)">"Emergent Coordination through Game-Induced Nonlinear Opinion Dynamics"</a> was accepted to *IEEE Conference on Decision and Control (CDC)*.
 * June 2023: Our paper <a href="https://ieeexplore.ieee.org/abstract/document/10172325" style="color: rgb(255, 128, 0)">"Fast, Smooth, and Safe: Implicit Control Barrier Functions through Reach-Avoid Differential Dynamic Programming"</a> was accepted to *IEEE Control Systems Letters*.
