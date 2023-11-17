@@ -12,7 +12,8 @@ I am so fortunate to work with <a href="https://ece.princeton.edu/people/jaime-f
 I am in the job market! Please feel free to reach out if you think I would be a good fit!
 </span>
 </center>
-&nbsp
+
+<br>
 
 <!-- how to provide safety and convergence guarantees for learning-based multi-agent reinforcement learning in zero-sum games, and -->
 Recently, I have been focusing on
