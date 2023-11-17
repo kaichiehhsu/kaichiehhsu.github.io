@@ -9,7 +9,7 @@ I am so fortunate to work with <a href="https://ece.princeton.edu/people/jaime-f
 
 <center>
 <span style="font-size:16pt; color:#ff8000">
-I am in the job market! Please feel free to reach out if you think I would be a good fit!
+I am in the job market! Please feel free to reach out if you think I would be a good fit to your team!
 </span>
 </center>
 
