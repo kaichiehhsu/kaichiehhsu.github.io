@@ -84,13 +84,13 @@ analytics:
 author:
   name             : "Kai-Chieh Hsu"
   avatar           : "me-1.jpg"
-  bio              : "I work on combining game-theoretic counterfactual reasoning and machine learning techniques for safe human-centered robotic systems." #"Your biography for the left-hand sidebar"
-  location         : "F-310 E-Quad, Princeton, NJ"
-  employer         :
+  bio              : "I combine game-theoretic reasoning and machine learning techniques for safe human-centered robotic systems." #"Your biography for the left-hand sidebar"
+  location         : "Mountain View, CA" #"Your location for the left-hand sidebar"
+  employer         : "Nuro"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fpjWEIUAAAAJ"
-  email            : "kaichieh@princeton.edu"
-  email_label      : "kaichieh@princeton.edu"
+  email            : "kaihsu.kj@gmail.com"
+  email_label      : "kaihsu.kj@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
