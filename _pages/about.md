@@ -6,8 +6,15 @@ author_profile: true
 ---
 
 I am currently a Machine Learning Research Scientist at Nuro, working to solve safety–performance and scalability–robustness tradeoff challenges in autonomous vehicles.
-I obtained my Ph.D. in Electrical and Computer Engineering from Princeton University in 2024 and my B.S. in Electrical Engineering from National Taiwan University in 2019.
+Recently, I have been focusing on
+1. Scaling safety assurance for autonomous systems,
+2. Integrating safety reasoning into the autonomy stack, and
+3. Augmenting safety through online adaptation.
+
+
+I obtained my Ph.D. in Electrical and Computer Engineering from Princeton University in 2024.
 During my Ph.D., I was fortunate to work with <a href="https://ece.princeton.edu/people/jaime-fernandez-fisac" style="color: rgb(255, 128, 0)"><span>Prof. Jaime Fernández Fisac</span></a> at <a href="https://saferobotics.princeton.edu/" style="color: rgb(255, 128, 0)"><span>Safe Robotics Lab</span></a>.
+My thesis presents algorithms designed to ensure the safety of learning-enabled autonomous systems. These algorithms are scalable to high-order dynamic systems and can handle complex deployment conditions. Additionally, they systematically unify the autonomy stack to prevent unwarranted conservativeness.
 
 <!-- <center>
 <span style="font-size:16pt; color:#ff8000">
@@ -17,15 +24,12 @@ I am in the job market! Please feel free to reach out if you think I would be a 
 
 <!-- <br> -->
 
-Recently, I have been focusing on
-1. Scaling safety assurance for autonomous systems,
-2. Integrating safety reasoning into the autonomy stack, and
-3. Augmenting safety through online adaptation.
 
 <!-- 1. how to let learning-based autonomy safely operate in uncertain and unforeseen environments, especially safe exploration and bridging the sim2real gap.
 2. how to develop safe and efficient autonomy stack, especially prediction-planning intergration and interpretable lens into the stack.
 3. how to use game-theoretic reasoning for human intent inference and multiagent planning. -->
 
+I received my B.S. in Electrical Engineering from National Taiwan University in 2019.
 As an undergraduate researcher in *Access LAB* (with <a href="http://access.ee.ntu.edu.tw/" style="color: rgb(255, 128, 0)">Prof. An-Yeu (Andy) Wu</a>), I focused on intelligent reconstruction for compressed sensing ECG signals.
 Also, I worked in the *Group of Electromagnetic Applications* (with <a href="http://cc.ee.ntu.edu.tw/~jfkiang/" style="color: rgb(255, 128, 0)">Prof. Jean-Fu Kiang</a>), focusing on direction-of-arrival estimation of signals.
 
