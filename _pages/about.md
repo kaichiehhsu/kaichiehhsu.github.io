@@ -21,6 +21,7 @@ Recently, I have been focusing on
 1. Scaling safety assurance for autonomous systems,
 2. Integrating safety reasoning into the autonomy stack, and
 3. Augmenting safety through online adaptation.
+
 <!-- 1. how to let learning-based autonomy safely operate in uncertain and unforeseen environments, especially safe exploration and bridging the sim2real gap.
 2. how to develop safe and efficient autonomy stack, especially prediction-planning intergration and interpretable lens into the stack.
 3. how to use game-theoretic reasoning for human intent inference and multiagent planning. -->
