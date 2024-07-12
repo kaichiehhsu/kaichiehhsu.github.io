@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Kai-Chieh Hsu"
   avatar           : "me-1.jpg"
-  bio              : "I combine game-theoretic reasoning and machine learning techniques for safe human-centered robotic systems." #"Your biography for the left-hand sidebar"
+  bio              : "I combine game-theoretic reasoning and machine learning techniques to create safe, human-centered robotic systems." #"Your biography for the left-hand sidebar"
   location         : "Mountain View, CA" #"Your location for the left-hand sidebar"
   employer         : "Nuro"
   pubmed           : 
