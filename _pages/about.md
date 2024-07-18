@@ -5,14 +5,15 @@ title: ""
 author_profile: true
 ---
 
-I am currently a Machine Learning Research Scientist at Nuro, working to solve safety–performance and scalability–robustness tradeoff challenges in autonomous vehicles.
-Recently, I have been focusing on
+
+<!-- , working to solve safety–performance and scalability–robustness tradeoff challenges in autonomous vehicles. -->
+<!-- Recently, I have been focusing on
 1. Scaling safety assurance for autonomous systems,
 2. Integrating safety reasoning into the autonomy stack, and
-3. Augmenting safety through online adaptation.
+3. Augmenting safety through online adaptation. -->
 
-
-I obtained my Ph.D. in Electrical and Computer Engineering from Princeton University in 2024.
+I am currently a Machine Learning Research Scientist at Nuro.
+Before joining Nuro, I completed my Ph.D. in Electrical and Computer Engineering at Princeton University
 During my Ph.D., I was fortunate to work with <a href="https://ece.princeton.edu/people/jaime-fernandez-fisac" style="color: rgb(255, 128, 0)"><span>Prof. Jaime Fernández Fisac</span></a> at <a href="https://saferobotics.princeton.edu/" style="color: rgb(255, 128, 0)"><span>Safe Robotics Lab</span></a>.
 My thesis presents algorithms designed to ensure the safety of learning-enabled autonomous systems. These algorithms are scalable to high-order dynamic systems and can handle complex deployment conditions. Additionally, they systematically unify the autonomy stack to prevent unwarranted conservativeness.
 
