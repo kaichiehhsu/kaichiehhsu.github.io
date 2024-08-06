@@ -50,6 +50,7 @@ Also, I worked in the *Group of Electromagnetic Applications* (with <a href="htt
 </h2>
 
 * July 2024: Joined Nuro as a Machine Learning Research Scientist.
+* June 2024: Received Hon Hai Technology Award for outstanding performance in robotics.
 * May 2024: Received my Ph.D. in Electrical and Computer Engineering from Princeton University with the thesis titled <a href="https://www.proquest.com/docview/3065208723/35A007D0B9E0429CPQ/10?%20Theses&accountid=13314&sourcetype=Dissertations%20" style="color: rgb(255, 128, 0)">Scaling Full-Stack Safety for Learning-Enabled Robot Autonomy</a>.
 * October 2023: Presented our paper "Interpretable Trajectory Prediction for Autonomous Vehicles via Counterfactual Responsibility" at *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)* and gave a talk "Role of Safety: from safety-critical control to safety-informed motion forecasting" at <a href="https://sites.google.com/view/w-iros23/home" style="color: rgb(255, 128, 0)">Formal methods techniques in robotics systems: Design and control</a>.
 * September 2023: Our paper <a href="https://arxiv.org/abs/2309.05837" style="color: rgb(255, 128, 0)">"The Safety Filter: A Unified View of Safety-Critical Control in Autonomous Systems"</a> was accepted to *Annual Review of Control, Robotics, and Autonomous Systems* (preprint online).
