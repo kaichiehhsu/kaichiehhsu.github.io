@@ -49,6 +49,7 @@ Also, I worked in the *Group of Electromagnetic Applications* (with <a href="htt
   Recent News
 </h2>
 
+* September 2024: Our paper <a href="https://saferobotics.princeton.edu/research/gameplay-filter" style="color: rgb(255, 128, 0)">"Gameplay Filters: Robust Zero-Shot Safety through Adversarial Imagination"</a> was accepted to *Annual Conference on Robot Learning (CoRL)* for *oral* presnetation.
 * July 2024: Joined Nuro as a Machine Learning Research Scientist.
 * June 2024: Received Hon Hai Technology Award for outstanding performance in robotics.
 * May 2024: Received my Ph.D. in Electrical and Computer Engineering from Princeton University with the thesis titled <a href="https://www.proquest.com/docview/3065208723/35A007D0B9E0429CPQ/10?%20Theses&accountid=13314&sourcetype=Dissertations%20" style="color: rgb(255, 128, 0)">Scaling Full-Stack Safety for Learning-Enabled Robot Autonomy</a>.
